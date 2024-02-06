@@ -1,0 +1,13 @@
+.link-primary {
+	text-decoration: none;
+	color: var(--color-dark-blue);
+}
+
+.link-primary:hover,
+.link-primary:active {
+	text-decoration: underline;
+}
+
+.link-primary:active {
+	font-weight: bold;
+}
