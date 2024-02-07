@@ -1,6 +1,6 @@
 <script>
 	import logo from '$lib/assets/logo.svg';
-	export const prerender = true;
+	import '$lib/ovzocss/index.css';
 </script>
 
 <nav class='nav flex align-center background-white'>

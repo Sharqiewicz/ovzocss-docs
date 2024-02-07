@@ -24,7 +24,6 @@
         ];
 
         let currentYear = new Date().getFullYear();
-
 </script>
 
 
