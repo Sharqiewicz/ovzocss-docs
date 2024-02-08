@@ -1,6 +1,6 @@
 <script>
 	import logo from '$lib/assets/logo.svg';
-	import '$lib/ovzocss/index.css';
+	import 'ovzocss';
 </script>
 
 <nav class='nav flex align-center background-white'>
